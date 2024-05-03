@@ -20,7 +20,7 @@
 
 Vous pouvez utilisez ce code comme vous le souhaitez, ce avec attribution ! 😊.
 
-Prenez soin de mentionner le travail incroyable de Brittany Chiang(https://v4.brittanychiang.com/) dont ce projet en presque entièrement inspiré, ainsi que d'Anaflous Abdellatif(https://www.anaflous.com/) qui a rajouté pleins d'éléments sur sa version v1. J'ai saisi l'occasion d'apprendre certaines librairies pour mettre en place ce site parmi lesquelles : Framer Motion, Three.js(au final je n'ai pas rajouté d'éléments three), Particlesjs et bien d'autres. Si vous avez des questions à propos de l'implémentation, vous pouvez me contacter via mon adresse présente sur le site ou, ou vous référer aux documentations des librairies employées.
+Prenez soin de mentionner le travail incroyable de Brittany Chiang(https://v4.brittanychiang.com/) dont ce projet en presque entièrement inspiré, ainsi que d'Anaflous Abdellatif(https://www.anaflous.com/) qui a rajouté pleins d'éléments sur sa version v1. J'ai saisi l'occasion d'apprendre certaines librairies pour mettre en place ce site parmi lesquelles : Framer Motion, Three.js(au final je n'ai pas rajouté d'éléments three), Particlesjs et bien d'autres. Je prévois rajouter des langues supplémentaires et me servir du site comme playground pour tester de nouvelles librairies donc n'hésitez pas à me suite :p . Si vous avez des questions à propos de l'implémentation, vous pouvez me contacter via mon adresse présente sur le site ou, ou vous référer aux documentations des librairies employées.
 
 ---
 
