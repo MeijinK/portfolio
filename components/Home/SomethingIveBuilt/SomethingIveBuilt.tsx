@@ -538,7 +538,10 @@ export default function SomethingIveBuilt() {
                   Platforme conçue afin de permettre aux{" "}
                   <span className="text-AAsecondary">administrations</span> de
                   rejoindre le mouvement{" "}
-                  <span className="text-AAsecondary">"zero papier"</span> et se
+                  <span className="text-AAsecondary">
+                    &quot;zero papier&quot;
+                  </span>{" "}
+                  et se
                   <span className="text-AAsecondary"> moderniser</span>. Elle
                   intègre la création de{" "}
                   <span className="text-AAsecondary">
