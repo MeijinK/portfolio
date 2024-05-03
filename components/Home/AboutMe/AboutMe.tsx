@@ -44,22 +44,24 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header text-justify">
               <span className="text-AATextAccent/70">
-                Salut ! Je m'appelle Emile Junior ADA, et je suis passionné par
-                le développement et le domaine de la technologie. Mon parcours
-                dans l'informatique a débuté en 2009, lorsque j'ai commencé à
-                créer mes premiers programmes, essentiellement des bots pour
-                jouer à des jeux sur des serveurs de discussion en ligne. Depuis
-                ce moment, j'ai toujours su que je voulais me consacrer à
-                l'ingénierie logicielle et m'immerger complètement dans
-                l'univers de la technologie.
+                Salut ! Je m&apos;appelle Emile Junior ADA, et je suis passionné
+                par le développement et le domaine de la technologie. Mon
+                parcours dans l&apos;informatique a débuté en 2009, lorsque
+                j&apos;ai commencé à créer mes premiers programmes,
+                essentiellement des bots pour jouer à des jeux sur des serveurs
+                de discussion en ligne. Depuis ce moment, j&apos;ai toujours su
+                que je voulais me consacrer à l&apos;ingénierie logicielle et
+                m&apos;immerger complètement dans l&apos;univers de la
+                technologie.
               </span>
             </div>
             <div className="font-Header text-justify">
               <span className="text-AATextAccent/70">
-                Dès l'obtention de ma Licence en Génie logiciel et Réseaux, je
-                n'ai cessé de multiplier les expériences tout en continuant mes
-                études, ce qui m'a permis d'affiner mes compétences dans le
-                domaine du développement. Je me revendique ainsi{" "}
+                Dès l&apos;obtention de ma Licence en Génie logiciel et Réseaux,
+                je n&apos;ai cessé de multiplier les expériences tout en
+                continuant mes études, ce qui m&apos;a permis d&apos;affiner mes
+                compétences dans le domaine du développement. Je me revendique
+                ainsi{" "}
                 <span className="text-AAsecondary">Développeur fullstack</span>,
                 toujours prêt à repousser mes limites et mener à bien de
                 nouveaux projets. A mes heures perdues, je fais également du
@@ -69,13 +71,13 @@ export default function AboutMe(props) {
             </div>
             <div className="font-Header text-justify">
               <span className="text-AATextAccent/70">
-                Ah et je suis aussi un jouer d'échecs :p .
+                Ah et je suis aussi un jouer d&apos;échecs :p .
               </span>
             </div>
 
             <div className="font-Header tracking-wide">
               <span className="text-AATextAccent/70">
-                Voici quelques technologies majeures avec lesquelles j'ai
+                Voici quelques technologies majeures avec lesquelles j&apos;ai
                 travaillé récemment :
               </span>
             </div>

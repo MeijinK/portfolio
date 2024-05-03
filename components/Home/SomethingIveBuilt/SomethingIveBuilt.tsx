@@ -79,12 +79,12 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
                 <p className="text-AATextAccent/70 text-justify md:text-right ">
                   Chez <span className="text-AAsecondary">Dingastream</span>,
-                  j'ai joué un rôle important dans le cadre du développement du
-                  projet en réalisant le{" "}
+                  j&apos;ai joué un rôle important dans le cadre du
+                  développement du projet en réalisant le{" "}
                   <span className="text-AAsecondary">site web</span> de
-                  présentations du service. L'idée était d'offrir une vue
-                  d'ensemble du service et des fonctionnalités disponibles sur
-                  l'application mobile.
+                  présentations du service. L&apos;idée était d&apos;offrir une
+                  vue d&apos;ensemble du service et des fonctionnalités
+                  disponibles sur l&apos;application mobile.
                 </p>
               </div>
               <ul
@@ -163,19 +163,20 @@ export default function SomethingIveBuilt() {
                   rel="noopener noreferrer"
                 >
                   <span className=" text-AATextAccent font-bold text-xl hover:cursor-pointer">
-                    Inscription d'artistes/Envoie de sons
+                    Inscription d&apos;artistes/Envoie de sons
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
                 <p className="text-AATextAccent/70 text-justify md:text-left ">
-                  J'ai eu l'opportunité de mettre en place l'
+                  J&apos;ai eu l&apos;opportunité de mettre en place l&apos;
                   <span className="text-AAsecondary">endpoint</span> permettant
                   aux artistes de
-                  <span className="text-AAsecondary">s'inscrire</span> et d'
+                  <span className="text-AAsecondary">s&apos;inscrire</span> et
+                  d&apos;
                   <span className="text-AAsecondary">uploader</span> leurs sons.
-                  Il s'agit d'un processus rapide, simple, et intuitif,
-                  accessible à n'importe quel artiste.
+                  Il s&apos;agit d&apos;un processus rapide, simple, et
+                  intuitif, accessible à n&apos;importe quel artiste.
                 </p>
               </div>
               <ul
@@ -265,8 +266,8 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
                 <p className="text-AATextAccent/70 text-justify md:text-right ">
                   Projet <span className="text-AAsecondary">wordpress</span>{" "}
-                  réalisé pour le compte d'un client afin de permettre
-                  l'enregistrement rapide des candidatures au sein de son
+                  réalisé pour le compte d&apos;un client afin de permettre
+                  l&apos;enregistrement rapide des candidatures au sein de son
                   agence. Il intègre également un système de paiement afin de
                   régler des factures pour les différentes prestations.
                 </p>
@@ -355,10 +356,10 @@ export default function SomethingIveBuilt() {
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
                 <p className="text-AATextAccent/70 text-justify md:text-left ">
-                  Projet dont j'ai eu la charge intégrale, de la{" "}
+                  Projet dont j&apos;ai eu la charge intégrale, de la{" "}
                   <span className="text-AAsecondary">conception</span> à la
                   <span className="text-AAsecondary">réalisation</span>. Il
-                  s'agit d'une platforme de{" "}
+                  s&apos;agit d&apos;une platforme de{" "}
                   <span className="text-AAsecondary">réservation</span> en 3
                   étapes, afin de rendre accessible et facile les déménagements
                   en île de France.
@@ -441,7 +442,7 @@ export default function SomethingIveBuilt() {
                   rel="noopener noreferrer"
                 >
                   <span className="text-AATextAccent font-bold text-xl hover:cursor-pointer">
-                    Gestion d'entreprises de déménagement
+                    Gestion d&apos;entreprises de déménagement
                   </span>
                 </a>
               </div>
@@ -449,10 +450,10 @@ export default function SomethingIveBuilt() {
                 <p className="text-AATextAccent/70 text-justify md:text-right ">
                   <span className="text-AAsecondary">CRM</span> simple et
                   intuitif conçu pour faciliter la{" "}
-                  <span className="text-AAsecondary">gestion</span> et l'
+                  <span className="text-AAsecondary">gestion</span> et l&apos;
                   <span className="text-AAsecondary">organisation</span> des
-                  sociétés de déménagement. Il permet la création et l'édition
-                  de devis, lettres de voiture et factures.
+                  sociétés de déménagement. Il permet la création et
+                  l&apos;édition de devis, lettres de voiture et factures.
                 </p>
               </div>
               <ul

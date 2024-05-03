@@ -91,14 +91,14 @@ export default function MyName(props: { finishedLoading: boolean }) {
           className="text-AATextAccent font-light font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
         >
           Je suis <span className="text-AAsecondary">ingénieur logiciel</span>,
-          doté d'une expertise affirmée en résolution de problèmes.{" "}
+          doté d&apos;une expertise affirmée en résolution de problèmes.{" "}
           <br className="2xl:block hidden" />
-          Je me concentre particulièrement sur la conception d'expériences
+          Je me concentre particulièrement sur la conception d&apos;expériences
           numériques remarquables, <br className="2xl:block hidden" />
-          et mon domaine d'expertise est le
+          et mon domaine d&apos;expertise est le
           <span className="text-AAsecondary">
             {" "}
-            développement web ( o_o' et mobile).
+            développement web ( o_o&apos; et mobile).
           </span>
         </motion.h3>
         <motion.div

@@ -15,7 +15,7 @@ export default function GetInTouch() {
       </div>
       {/* // ? Get In Touch */}
       <span className="text-AAsecondary text-3xl sm:text-4xl font-bold tracking-wider opacity-85">
-        <span className="uppercase">ç</span>a tombe bien j'aime vous lire
+        <span className="uppercase">ç</span>a tombe bien j&apos;aime vous lire
       </span>
       <p className="flex font-Header tracking-wider text-AATextAccent/70 text-center px-6 sm:px-16 md:px-0 md:w-[600px]">
         Que vous ayez besoin de conseils, que vous ayez des opportunités à
@@ -32,7 +32,7 @@ export default function GetInTouch() {
             className="font-mono text-sm border-AATextAccent
            hover:bg-AATextAccent hover:text-white text-AATextAccent px-8 py-4 border-[1.5px] rounded-full "
           >
-            Faites l'essai si vous ne me croyez pas
+            Faites l&apos;essai si vous ne me croyez pas
           </button>
         </a>
       </div>
