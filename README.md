@@ -5,7 +5,7 @@
   emilejuniorada.com
 </h1>
 <p align="center">
-  Première versio nde mon portfolio <a href="https://emilejuniorada.com" target="_blank">emilejuniorada.com</a> réalisé avec <a href="https://nextjs.org/" target="_blank">Nextjs</a> et hébergé avec <a href="https://vercel.com/" target="_blank">Vercel</a>
+  Première version de mon portfolio <a href="https://emilejuniorada.com" target="_blank">emilejuniorada.com</a> réalisée avec <a href="https://nextjs.org/" target="_blank">Nextjs</a> et hébergé avec <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
