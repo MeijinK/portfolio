@@ -23,17 +23,6 @@ export default function Home() {
   const aboutRef = useRef<HTMLDivElement>(null);
   const homeRef = useRef<HTMLDivElement>(null);
 
-  // userData state that will be used to get usr location
-  const [userData, setUserData] = useState(null);
-
-  // check if user from Black List
-  const [isBlackListed, setIsBlackListed] = useState(false);
-
-  // check if NEXT_PUBLC_BLACKLIST_COUNTRIES is empty
-  const [IsBlackListEmpty, setIsBlackListEmpty] = useState(
-    process.env.NEXT_PUBLIC_BLACKLIST_COUNTRIES === "" ? true : false
-  );
-
   useEffect(() => {
     // remove the interval Cookie timer setter when
     clearInterval(context.sharedState.userdata.timerCookieRef.current);
