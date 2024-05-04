@@ -21,7 +21,7 @@ export default function SomethingIveBuilt() {
             Quelques Projets
           </span>
         </div>
-        <div className="bg-AAtertiary h-[0.2px] w-full xl:w-1/3 md:w-1/2"></div>
+        <div className="bg-AATextAccent h-[2px] w-full xl:w-1/3 md:w-1/2"></div>
       </div>
 
       <div className="flex flex-col   xl:space-y-36 space-y-8 md:space-y-28">
