@@ -14,7 +14,7 @@ export default function GetInTouch() {
         </span>
       </div>
       {/* // ? Get In Touch */}
-      <span className="text-AAsecondary text-3xl sm:text-4xl font-bold tracking-wider opacity-85">
+      <span className="text-AAsecondary text-3xl sm:text-4xl sm:text-center font-bold tracking-wider opacity-85">
         <span className="uppercase">ç</span>a tombe bien j&apos;aime vous lire
       </span>
       <p className="flex font-Header tracking-wider text-AATextAccent/70 text-center px-6 sm:px-16 md:px-0 md:w-[600px]">
