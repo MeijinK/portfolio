@@ -20,8 +20,6 @@ const IconsData = [
     href: "https://www.linkedin.com/in/emile-junior-ada-426068118/",
     Icon: LinkedinIcon,
   },
-  { href: "https://www.instagram.com/titof_abdo/", Icon: InstagramIcon },
-  { href: "https://www.youtube.com/@abdellatif_anaflous", Icon: YoutubeIcon },
 ];
 
 export default function Fotter(props: {
