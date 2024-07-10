@@ -9,7 +9,7 @@ export default function HdDem() {
       keywords: ["application", "web", "Vue3", "Laravel", "InertiaJs"],
     },
     {
-      text: "Refonte du CRM pour déménageurs Sysdem.",
+      text: "Réalisation du CRM pou déménageurs Dem CRM.",
       keywords: [],
     },
   ];
