@@ -7,7 +7,6 @@ import Sysdem from "./Descriptions/Sysdem";
 import Dingastream from "./Descriptions/Dingastream";
 import Freelance from "./Descriptions/Freelance";
 import Skyran from "./Descriptions/Skyran";
-import Kaverne from "./Descriptions/Kaverne";
 import South from "./Descriptions/South";
 import Rintio from "./Descriptions/Rintio";
 export default function WhereIHaveWorked() {
@@ -16,9 +15,7 @@ export default function WhereIHaveWorked() {
   // ? INFORMATIONAL the default value of barRef's class should be at the beginning translate-y-[0px]
   const GetDescription = () => {
     switch (DescriptionJob) {
-      case "La Kaverne Digitale":
-        return <Kaverne />;
-      case "HD Dem":
+      case "L'agence du déménagement":
         return <HdDem />;
       case "Sauki.io":
         return <Sauki />;
@@ -108,27 +105,11 @@ const CompaniesBar = (props) => {
       <div className="flex flex-col md:order-2 order-1 space-y-1 pl-8 md:pl-0 ">
         <div className="flex flex-row md:flex-col">
           <CompanyButton
-            ButtonOrderOfcompanyNameBackgroundColorGreen={0}
-            CompanyName="La Kaverne Digitale"
-            BarPosition={-12}
-            BarAvobePosition={1}
-            DescriptionJob="La Kaverne Digitale"
-            CompanyNameBackgroundColorGreen={[
-              true,
-              false,
-              false,
-              false,
-              false,
-              false,
-            ]}
-            setDescriptionJob={props.setDescriptionJob}
-          />
-          <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={1}
-            CompanyName="HD Dem"
+            CompanyName="L'agence du déménagement"
             BarPosition={32}
             BarAvobePosition={129}
-            DescriptionJob="HD Dem"
+            DescriptionJob="L'agence du déménagement"
             CompanyNameBackgroundColorGreen={[
               false,
               true,
