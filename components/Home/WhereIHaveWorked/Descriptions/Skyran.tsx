@@ -26,7 +26,7 @@ export default function Skyran() {
           <span className="text-AATextAccent sm:text-lg text-sm font-Arimo tracking-wide">
             Developer & Graphic Designer{" "}
             <span className="text-AAsecondary">
-              @ Network, System, Web3 & Design
+              @ Network, System, Web2 & Design
             </span>
           </span>
           {/* Date */}

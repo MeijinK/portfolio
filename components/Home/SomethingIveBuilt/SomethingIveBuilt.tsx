@@ -93,7 +93,7 @@ export default function SomethingIveBuilt() {
               >
                 <span className="pr-4 z-10">Dingastream</span>
                 <span className="pr-4 z-10">Streaming</span>
-                <span className="pr-4 z-10">web3</span>
+                <span className="pr-4 z-10">Web2</span>
                 <span className="pr-4 z-10">Android/iOS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
@@ -279,7 +279,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Canada</span>
                 <span className="pr-4 z-10">Wordpress</span>
                 <span className="pr-4 z-10">Stripe</span>
-                <span className="pr-4 z-10">Web3</span>
+                <span className="pr-4 z-10">Web2</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 <a

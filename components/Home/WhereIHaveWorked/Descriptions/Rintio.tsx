@@ -25,7 +25,7 @@ export default function Rintio() {
           {/* Title */}
           <span className="text-AATextAccent sm:text-lg text-sm font-Arimo tracking-wide">
             Développeur Backend Java{" "}
-            <span className="text-AAsecondary">@ Web3</span>
+            <span className="text-AAsecondary">@ Web2</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-AATextAccent/70">

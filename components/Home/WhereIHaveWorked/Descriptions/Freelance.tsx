@@ -18,7 +18,7 @@ export default function Freelance() {
       <div className="flex flex-col spacey-y-2">
         {/* Title */}
         <span className="text-AATextAccent sm:text-lg text-sm font-Arimo tracking-wide">
-          Web Developer <span className="text-AAsecondary">@ Web3</span>
+          Web Developer <span className="text-AAsecondary">@ Web2</span>
         </span>
         {/* Date */}
         <span className="font-mono text-xs text-AATextAccent/70">
