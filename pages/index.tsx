@@ -64,7 +64,7 @@ export default function Home() {
   console.log("website is rendering...");
   const meta = {
     title: "Emile Junior ADA - Software Engineer",
-    description: `Développeut Fullstack depuis plus de 7 ans. Découvrez en plus à propos de moi.`,
+    description: `Développeur Fullstack depuis plus de 7 ans. Découvrez en plus à propos de moi.`,
     image: "/me.png",
     type: "website",
   };
