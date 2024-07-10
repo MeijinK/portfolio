@@ -31,7 +31,7 @@ export default function HdDem() {
             style={{ fontSize: "0.6rem" }}
             // set on click to open the website
             onClick={() =>
-              window.open("https://www.agencdemenagement.com/", "_blank")
+              window.open("https://www.agencedemenagement.com/", "_blank")
             }
           >
             www.agencdemenagement.com
