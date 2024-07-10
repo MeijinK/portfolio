@@ -34,7 +34,7 @@ export default function HdDem() {
               window.open("https://www.agencedemenagement.com/", "_blank")
             }
           >
-            www.agencdemenagement.com
+            www.agencedemenagement.com
           </span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
