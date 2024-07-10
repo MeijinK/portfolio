@@ -10,7 +10,7 @@ export default function HdDem() {
     },
     {
       text: "Réalisation du CRM pou déménageurs Dem CRM.",
-      keywords: [],
+      keywords: ["Nuxt", "Api", "Laravel", "Typescript"],
     },
   ];
 
