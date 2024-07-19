@@ -24,7 +24,7 @@ export default function HdDem() {
       keywords: ["Agile", "Scrum", "Notion", "KANBAN"],
     },
     {
-      text: "Gestion d'équipes.'",
+      text: "Gestion d'équipes.",
       keywords: ["Management", "Github"],
     },
   ];
