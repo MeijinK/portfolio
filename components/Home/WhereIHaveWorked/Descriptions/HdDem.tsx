@@ -6,11 +6,26 @@ export default function HdDem() {
   const tasks = [
     {
       text: "Réalisation de l'application web de réservation de déménagement 'Deux Gars Un Camion' avec Vue3, Laravel, InertiaJs, Tailwindcss.",
-      keywords: ["application", "web", "Vue3", "Laravel", "InertiaJs"],
+      keywords: [
+        "Application",
+        "Web",
+        "Vue3",
+        "Laravel",
+        "InertiaJs",
+        "DevOps",
+      ],
     },
     {
       text: "Réalisation du CRM pou déménageurs Dem CRM.",
-      keywords: ["Nuxt", "Api", "Laravel", "Typescript"],
+      keywords: ["Nuxt", "Api", "Laravel", "Typescript", "DevOps"],
+    },
+    {
+      text: "Gestion de projets informatiques.",
+      keywords: ["Agile", "Scrum", "Notion", "KANBAN"],
+    },
+    {
+      text: "Gestion d'équipes.'",
+      keywords: ["Management", "Github"],
     },
   ];
 
