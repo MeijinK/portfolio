@@ -6,7 +6,7 @@ export default function AboutMe(props) {
     [
       "Next.js/React",
       "ExpressJS",
-      "Tailwind CSS",
+      "Tailwind CSS/Bootstrap",
       "Radix/RadixVue",
       "Wordpress",
     ],
@@ -14,7 +14,7 @@ export default function AboutMe(props) {
       "Nuxt.js/Vue",
       "Laravel",
       "Framer Motion",
-      "Mysql/PostgreSQL",
+      "Mysql/PostgreSQL/MongoDB",
       "Photoshop",
     ],
   ];
