@@ -9,12 +9,15 @@ import Freelance from "./Descriptions/Freelance";
 import Skyran from "./Descriptions/Skyran";
 import South from "./Descriptions/South";
 import Rintio from "./Descriptions/Rintio";
+import Veentoo from "./Descriptions/veentoo";
 export default function WhereIHaveWorked() {
   const barRef = React.useRef<HTMLDivElement>(null);
   // ? INFORMATIONAL control the green position using px,
   // ? INFORMATIONAL the default value of barRef's class should be at the beginning translate-y-[0px]
   const GetDescription = () => {
     switch (DescriptionJob) {
+      case "Veentoo":
+        return <Veentoo />;
       case "L'agence du déménagement":
         return <HdDem />;
       case "Sauki.io":
@@ -34,7 +37,7 @@ export default function WhereIHaveWorked() {
     }
   };
   const [DescriptionJob, setDescriptionJob] = React.useState(
-    "L'agence du déménagement"
+    "Veentoo"
   );
   return (
     <div
@@ -105,6 +108,17 @@ const CompaniesBar = (props) => {
       <div className="flex flex-col md:order-2 order-1 space-y-1 pl-8 md:pl-0 ">
         <div className="flex flex-row md:flex-col">
           <CompanyButton
+            ButtonOrderOfcompanyNameBackgroundColorGreen={0}
+            CompanyName="Veentoo"
+            BarPosition={8}
+            BarAvobePosition={107}
+            DescriptionJob="Veentoo"
+            CompanyNameBackgroundColorGreen={[
+              true,
+            ]}
+            setDescriptionJob={props.setDescriptionJob}
+          />
+          <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={1}
             CompanyName="L'agence du déménagement"
             BarPosition={32}
@@ -113,10 +127,6 @@ const CompaniesBar = (props) => {
             CompanyNameBackgroundColorGreen={[
               false,
               true,
-              false,
-              false,
-              false,
-              false,
             ]}
             setDescriptionJob={props.setDescriptionJob}
           />
@@ -130,9 +140,6 @@ const CompaniesBar = (props) => {
               false,
               false,
               true,
-              false,
-              false,
-              false,
             ]}
             setDescriptionJob={props.setDescriptionJob}
           />
@@ -147,8 +154,6 @@ const CompaniesBar = (props) => {
               false,
               false,
               true,
-              false,
-              false,
             ]}
             setDescriptionJob={props.setDescriptionJob}
           />
@@ -164,7 +169,6 @@ const CompaniesBar = (props) => {
               false,
               false,
               true,
-              false,
             ]}
             setDescriptionJob={props.setDescriptionJob}
           />

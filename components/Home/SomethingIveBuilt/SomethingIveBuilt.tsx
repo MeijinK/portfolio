@@ -327,7 +327,7 @@ export default function SomethingIveBuilt() {
                 ></div>
               </a>
               <ProjectContainer
-                src={"/deux.png"}
+                src={"/deuxgarsuncamion.png"}
                 alt={"Projet Deux Gars"}
                 dynamic
               />
@@ -391,7 +391,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-30 z-10"></div>
                 <ProjectContainer
-                  src={"/deux.png"}
+                  src={"/deuxgarsuncamion.png"}
                   alt={"Projet Deux Gars"}
                   dynamic
                 />
@@ -573,6 +573,176 @@ export default function SomethingIveBuilt() {
                 <ProjectContainer
                   src={"/sauki.png"}
                   alt={"Projet Sauki"}
+                  dynamic
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* // ?  Project  3*/}
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96 "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center"
+          >
+            <div className="relative rounded w-full h-full col-span-7 ">
+              <a
+                href="https://www.demcrm.com/"
+                target={"_blank"}
+                rel="noreferrer"
+              >
+                <div
+                  // onClick={}
+                  className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-30 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </a>
+
+              <ProjectContainer
+                src={"/demcrm.png"}
+                alt={"Projet Dem CRM"}
+                dynamic
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className="md:absolute py-4 md:grid md:grid-cols-12 space-y-2 w-full h-full content-center ">
+            <div
+              className="px-12 pt-14 sm:pt-12 md:py-0 xl:col-span-6 xl:col-start-7 col-start-5 
+            col-span-8 flex flex-col items-start md:items-end space-y-3"
+            >
+              <div className="flex flex-col space-y-1 md:items-end z-10">
+                <span className="text-AAsecondary text- font-bold">
+                  Dem CRM{" "}
+                </span>
+                <a
+                  href="https://www.demcrm.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <span className="text-AATextAccent font-bold text-xl hover:cursor-pointer">
+                    CRM pour déménageurs
+                  </span>
+                </a>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
+                <p className="text-AATextAccent/70 text-justify md:text-right ">
+                  <span className="text-AAsecondary">CRM</span> dédié aux déménageurs, conçu pour faciliter la{" "}
+                  <span className="text-AAsecondary">gestion</span> et l&apos;
+                  <span className="text-AAsecondary">organisation</span> des
+                  entreprises de déménagement. Il permet la création et
+                  l&apos;édition de devis, lettres de voiture et factures.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-AATextAccent/70
+               text-sm font-Text2 md:justify-end"
+              >
+                <span className="pr-4 z-10">CRM</span>
+                <span className="pr-4 z-10">Déménagement</span>
+                <span className="pr-4 z-10">Nuxtjs</span>
+                <span className="pr-4 z-10">Laravel</span>
+                <span className="pr-4 z-10">Typescript</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                <a
+                  href="https://www.demcrm.com/"
+                  target={"_blank"}
+                  rel="noreferrer"
+                >
+                  <ExternalLink url={""} router={router} />
+                </a>
+              </div>
+            </div>
+            {/* background for text in mobile responsive */}
+            <div className="flex md:hidden w-full h-full bg-opacity-70 z-0">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-30 z-10"></div>
+                <ProjectContainer
+                  src={"/demcrm.png"}
+                  alt={"Projet Dem CRM"}
+                  dynamic
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center "
+          >
+            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
+              <a href={"https://www.veentoo.com/"} target="_blank" rel="noreferrer">
+                <div
+                  className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </a>
+              <ProjectContainer
+                src={"/veentoo.png"}
+                alt={"Projet Veentoo"}
+                dynamic
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className="md:absolute py-4 md:grid md:grid-cols-12 space-y-2 w-full h-full content-center ">
+            <div
+              className="px-8 pt-20 sm:pt-12 md:py-0 xl:col-span-6   
+            col-span-8 flex flex-col items-start  space-y-3 md:order-1"
+            >
+              <div className="flex flex-col space-y-1  z-10">
+                <span className="text-AAsecondary text-base">Veentoo</span>
+                <a
+                  href="https://www.veentoo.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <span className=" text-AATextAccent font-bold text-xl hover:cursor-pointer">
+                    SaaS pour restaurateurs
+                  </span>
+                </a>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6 font-semibold z-10">
+                <p className="text-AATextAccent/70 text-justify md:text-left ">
+                  SaaS conçu pour les restaurateurs, permettant de gérer toutes les opérations liées à leur activité, avec gestion de stock, commandes, factures, etc.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-AATextAccent/70
+               text-sm font-Text2 md:justify-start"
+              >
+                <span className="pr-4 z-10">Restaurateurs</span>
+                <span className="pr-4 z-10">Vue3</span>
+                <span className="pr-4 z-10">Tailwindcss</span>
+                <span className="pr-4 z-10">Laravel</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                <a href="https://www.veentoo.com/" target={"_blank"} rel="noreferrer">
+                  <ExternalLink url={""} router={router} />
+                </a>
+              </div>
+            </div>
+            {/* background for text in mobile responsive */}
+            <div className="flex md:hidden w-full h-full bg-opacity-70 z-0 md:order-2">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-30 z-10"></div>
+                <ProjectContainer
+                  src={"/veentoo.png"}
+                  alt={"Projet Veentoo"}
                   dynamic
                 />
               </div>
